@@ -1,0 +1,3040 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="route" attr.type="string"/>
+<key id="d6" for="edge" attr.name="distance" attr.type="float"/>
+<key id="d5" for="edge" attr.name="drive" attr.type="float"/>
+<key id="d4" for="edge" attr.name="label" attr.type="string"/>
+<key id="d3" for="node" attr.name="y_pos" attr.type="float"/>
+<key id="d2" for="node" attr.name="x_pos" attr.type="float"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Youngstown, OH">
+  <data key="d0">City</data>
+  <data key="d1">Youngstown, OH</data>
+  <data key="d2">-5572.57</data>
+  <data key="d3">2839.81</data>
+</node>
+<node id="Yankton, SD">
+  <data key="d0">City</data>
+  <data key="d1">Yankton, SD</data>
+  <data key="d2">-6729.21</data>
+  <data key="d3">2962.82</data>
+</node>
+<node id="Yakima, WA">
+  <data key="d0">City</data>
+  <data key="d1">Yakima, WA</data>
+  <data key="d2">-8326.72</data>
+  <data key="d3">3219.84</data>
+</node>
+<node id="Worcester, MA">
+  <data key="d0">City</data>
+  <data key="d1">Worcester, MA</data>
+  <data key="d2">-4961.07</data>
+  <data key="d3">2920.67</data>
+</node>
+<node id="Wisconsin Dells, WI">
+  <data key="d0">City</data>
+  <data key="d1">Wisconsin Dells, WI</data>
+  <data key="d2">-6202.7</data>
+  <data key="d3">3014.64</data>
+</node>
+<node id="Winston-Salem, NC">
+  <data key="d0">City</data>
+  <data key="d1">Winston-Salem, NC</data>
+  <data key="d2">-5544.93</data>
+  <data key="d3">2494.33</data>
+</node>
+<node id="Winnipeg, MB">
+  <data key="d0">City</data>
+  <data key="d1">Winnipeg, MB</data>
+  <data key="d2">-6712.64</data>
+  <data key="d3">3446.49</data>
+</node>
+<node id="Winchester, VA">
+  <data key="d0">City</data>
+  <data key="d1">Winchester, VA</data>
+  <data key="d2">-5400.52</data>
+  <data key="d3">2707.84</data>
+</node>
+<node id="Wilmington, NC">
+  <data key="d0">City</data>
+  <data key="d1">Wilmington, NC</data>
+  <data key="d2">-5383.92</data>
+  <data key="d3">2365.84</data>
+</node>
+<node id="Wilmington, DE">
+  <data key="d0">City</data>
+  <data key="d1">Wilmington, DE</data>
+  <data key="d2">-5220.18</data>
+  <data key="d3">2746.55</data>
+</node>
+<node id="Williston, ND">
+  <data key="d0">City</data>
+  <data key="d1">Williston, ND</data>
+  <data key="d2">-7159.69</data>
+  <data key="d3">3326.96</data>
+</node>
+<node id="Williamsport, PA">
+  <data key="d0">City</data>
+  <data key="d1">Williamsport, PA</data>
+  <data key="d2">-5320.37</data>
+  <data key="d3">2850.2</data>
+</node>
+<node id="Williamson, WV">
+  <data key="d0">City</data>
+  <data key="d1">Williamson, WV</data>
+  <data key="d2">-5685.17</data>
+  <data key="d3">2603.52</data>
+</node>
+<node id="Wichita Falls, TX">
+  <data key="d0">City</data>
+  <data key="d1">Wichita Falls, TX</data>
+  <data key="d2">-6805.21</data>
+  <data key="d3">2342.34</data>
+</node>
+<node id="Wichita, KS">
+  <data key="d0">City</data>
+  <data key="d1">Wichita, KS</data>
+  <data key="d2">-6725.75</data>
+  <data key="d3">2604.2</data>
+</node>
+<node id="Wheeling, WV">
+  <data key="d0">City</data>
+  <data key="d1">Wheeling, WV</data>
+  <data key="d2">-5577.4</data>
+  <data key="d3">2768.64</data>
+</node>
+<node id="West Palm Beach, FL">
+  <data key="d0">City</data>
+  <data key="d1">West Palm Beach, FL</data>
+  <data key="d2">-5531.11</data>
+  <data key="d3">1846.22</data>
+</node>
+<node id="Wenatchee, WA">
+  <data key="d0">City</data>
+  <data key="d1">Wenatchee, WA</data>
+  <data key="d2">-8313.57</data>
+  <data key="d3">3276.5</data>
+</node>
+<node id="Weed, CA">
+  <data key="d0">City</data>
+  <data key="d1">Weed, CA</data>
+  <data key="d2">-8456.6</data>
+  <data key="d3">2861.92</data>
+</node>
+<node id="Waycross, GA">
+  <data key="d0">City</data>
+  <data key="d1">Waycross, GA</data>
+  <data key="d2">-5690.01</data>
+  <data key="d3">2157.15</data>
+</node>
+<node id="Wausau, WI">
+  <data key="d0">City</data>
+  <data key="d1">Wausau, WI</data>
+  <data key="d2">-6193.72</data>
+  <data key="d3">3106.52</data>
+</node>
+<node id="Waukegan, IL">
+  <data key="d0">City</data>
+  <data key="d1">Waukegan, IL</data>
+  <data key="d2">-6068.67</data>
+  <data key="d3">2926.89</data>
+</node>
+<node id="Watertown, SD">
+  <data key="d0">City</data>
+  <data key="d1">Watertown, SD</data>
+  <data key="d2">-6709.88</data>
+  <data key="d3">3102.4</data>
+</node>
+<node id="Watertown, NY">
+  <data key="d0">City</data>
+  <data key="d1">Watertown, NY</data>
+  <data key="d2">-5245.72</data>
+  <data key="d3">3038.81</data>
+</node>
+<node id="Waterloo, IA">
+  <data key="d0">City</data>
+  <data key="d1">Waterloo, IA</data>
+  <data key="d2">-6380.27</data>
+  <data key="d3">2936.57</data>
+</node>
+<node id="Waterbury, CT">
+  <data key="d0">City</data>
+  <data key="d1">Waterbury, CT</data>
+  <data key="d2">-5047.44</data>
+  <data key="d3">2870.91</data>
+</node>
+<node id="Washington, DC">
+  <data key="d0">City</data>
+  <data key="d1">Washington, DC</data>
+  <data key="d2">-5322.42</data>
+  <data key="d3">2687.11</data>
+</node>
+<node id="Warren, PA">
+  <data key="d0">City</data>
+  <data key="d1">Warren, PA</data>
+  <data key="d2">-5468.21</data>
+  <data key="d3">2891.63</data>
+</node>
+<node id="Walla Walla, WA">
+  <data key="d0">City</data>
+  <data key="d1">Walla Walla, WA</data>
+  <data key="d2">-8176.09</data>
+  <data key="d3">3183.22</data>
+</node>
+<node id="Waco, TX">
+  <data key="d0">City</data>
+  <data key="d1">Waco, TX</data>
+  <data key="d2">-6711.93</data>
+  <data key="d3">2179.95</data>
+</node>
+<node id="Vincennes, IN">
+  <data key="d0">City</data>
+  <data key="d1">Vincennes, IN</data>
+  <data key="d2">-6047.92</data>
+  <data key="d3">2672.62</data>
+</node>
+<node id="Victoria, TX">
+  <data key="d0">City</data>
+  <data key="d1">Victoria, TX</data>
+  <data key="d2">-6702.97</data>
+  <data key="d3">1990.63</data>
+</node>
+<node id="Vicksburg, MS">
+  <data key="d0">City</data>
+  <data key="d1">Vicksburg, MS</data>
+  <data key="d2">-6279.39</data>
+  <data key="d3">2235.23</data>
+</node>
+<node id="Vancouver, BC">
+  <data key="d0">City</data>
+  <data key="d1">Vancouver, BC</data>
+  <data key="d2">-8507.06</data>
+  <data key="d3">3404.34</data>
+</node>
+<node id="Valley City, ND">
+  <data key="d0">City</data>
+  <data key="d1">Valley City, ND</data>
+  <data key="d2">-6772.07</data>
+  <data key="d3">3241.95</data>
+</node>
+<node id="Valdosta, GA">
+  <data key="d0">City</data>
+  <data key="d1">Valdosta, GA</data>
+  <data key="d2">-5754.27</data>
+  <data key="d3">2130.2</data>
+</node>
+<node id="Utica, NY">
+  <data key="d0">City</data>
+  <data key="d1">Utica, NY</data>
+  <data key="d2">-5198.07</data>
+  <data key="d3">2978.71</data>
+</node>
+<node id="Uniontown, PA">
+  <data key="d0">City</data>
+  <data key="d1">Uniontown, PA</data>
+  <data key="d2">-5509.0</data>
+  <data key="d3">2756.92</data>
+</node>
+<node id="Tyler, TX">
+  <data key="d0">City</data>
+  <data key="d1">Tyler, TX</data>
+  <data key="d2">-6584.82</data>
+  <data key="d3">2235.23</data>
+</node>
+<node id="Twin Falls, ID">
+  <data key="d0">City</data>
+  <data key="d1">Twin Falls, ID</data>
+  <data key="d2">-7909.38</data>
+  <data key="d3">2940.71</data>
+</node>
+<node id="Tuscaloosa, AL">
+  <data key="d0">City</data>
+  <data key="d1">Tuscaloosa, AL</data>
+  <data key="d2">-6050.69</data>
+  <data key="d3">2294.65</data>
+</node>
+<node id="Tupelo, MS">
+  <data key="d0">City</data>
+  <data key="d1">Tupelo, MS</data>
+  <data key="d2">-6129.46</data>
+  <data key="d3">2367.2</data>
+</node>
+<node id="Tulsa, OK">
+  <data key="d0">City</data>
+  <data key="d1">Tulsa, OK</data>
+  <data key="d2">-6626.97</data>
+  <data key="d3">2498.48</data>
+</node>
+<node id="Tucson, AZ">
+  <data key="d0">City</data>
+  <data key="d1">Tucson, AZ</data>
+  <data key="d2">-7667.55</data>
+  <data key="d3">2226.26</data>
+</node>
+<node id="Trinidad, CO">
+  <data key="d0">City</data>
+  <data key="d1">Trinidad, CO</data>
+  <data key="d2">-7221.19</data>
+  <data key="d3">2568.27</data>
+</node>
+<node id="Trenton, NJ">
+  <data key="d0">City</data>
+  <data key="d1">Trenton, NJ</data>
+  <data key="d2">-5166.26</data>
+  <data key="d3">2779.7</data>
+</node>
+<node id="Traverse City, MI">
+  <data key="d0">City</data>
+  <data key="d1">Traverse City, MI</data>
+  <data key="d2">-5916.64</data>
+  <data key="d3">3092.7</data>
+</node>
+<node id="Toronto, ON">
+  <data key="d0">City</data>
+  <data key="d1">Toronto, ON</data>
+  <data key="d2">-5484.79</data>
+  <data key="d3">3016.03</data>
+</node>
+<node id="Topeka, KS">
+  <data key="d0">City</data>
+  <data key="d1">Topeka, KS</data>
+  <data key="d2">-6610.36</data>
+  <data key="d3">2698.17</data>
+</node>
+<node id="Toledo, OH">
+  <data key="d0">City</data>
+  <data key="d1">Toledo, OH</data>
+  <data key="d2">-5772.25</data>
+  <data key="d3">2877.83</data>
+</node>
+<node id="Texarkana, TX">
+  <data key="d0">City</data>
+  <data key="d1">Texarkana, TX</data>
+  <data key="d2">-6498.45</data>
+  <data key="d3">2309.87</data>
+</node>
+<node id="Terre Haute, IN">
+  <data key="d0">City</data>
+  <data key="d1">Terre Haute, IN</data>
+  <data key="d2">-6039.65</data>
+  <data key="d3">2727.21</data>
+</node>
+<node id="Tampa, FL">
+  <data key="d0">City</data>
+  <data key="d1">Tampa, FL</data>
+  <data key="d2">-5696.92</data>
+  <data key="d3">1931.22</data>
+</node>
+<node id="Tallahassee, FL">
+  <data key="d0">City</data>
+  <data key="d1">Tallahassee, FL</data>
+  <data key="d2">-5823.36</data>
+  <data key="d3">2103.96</data>
+</node>
+<node id="Tacoma, WA">
+  <data key="d0">City</data>
+  <data key="d1">Tacoma, WA</data>
+  <data key="d2">-8459.38</data>
+  <data key="d3">3264.08</data>
+</node>
+<node id="Syracuse, NY">
+  <data key="d0">City</data>
+  <data key="d1">Syracuse, NY</data>
+  <data key="d2">-5261.63</data>
+  <data key="d3">2974.55</data>
+</node>
+<node id="Swainsboro, GA">
+  <data key="d0">City</data>
+  <data key="d1">Swainsboro, GA</data>
+  <data key="d2">-5689.32</data>
+  <data key="d3">2252.5</data>
+</node>
+<node id="Sumter, SC">
+  <data key="d0">City</data>
+  <data key="d1">Sumter, SC</data>
+  <data key="d2">-5551.82</data>
+  <data key="d3">2343.71</data>
+</node>
+<node id="Stroudsburg, PA">
+  <data key="d0">City</data>
+  <data key="d1">Stroudsburg, PA</data>
+  <data key="d2">-5195.3</data>
+  <data key="d3">2832.23</data>
+</node>
+<node id="Stockton, CA">
+  <data key="d0">City</data>
+  <data key="d1">Stockton, CA</data>
+  <data key="d2">-8380.61</data>
+  <data key="d3">2622.85</data>
+</node>
+<node id="Stevens Point, WI">
+  <data key="d0">City</data>
+  <data key="d1">Stevens Point, WI</data>
+  <data key="d2">-6188.88</data>
+  <data key="d3">3076.14</data>
+</node>
+<node id="Steubenville, OH">
+  <data key="d0">City</data>
+  <data key="d1">Steubenville, OH</data>
+  <data key="d2">-5570.49</data>
+  <data key="d3">2788.7</data>
+</node>
+<node id="Sterling, CO">
+  <data key="d0">City</data>
+  <data key="d1">Sterling, CO</data>
+  <data key="d2">-7132.05</data>
+  <data key="d3">2806.65</data>
+</node>
+<node id="Staunton, VA">
+  <data key="d0">City</data>
+  <data key="d1">Staunton, VA</data>
+  <data key="d2">-5463.38</data>
+  <data key="d3">2636.0</data>
+</node>
+<node id="Springfield, OH">
+  <data key="d0">City</data>
+  <data key="d1">Springfield, OH</data>
+  <data key="d2">-5790.89</data>
+  <data key="d3">2758.28</data>
+</node>
+<node id="Springfield, MO">
+  <data key="d0">City</data>
+  <data key="d1">Springfield, MO</data>
+  <data key="d2">-6445.93</data>
+  <data key="d3">2571.74</data>
+</node>
+<node id="Springfield, MA">
+  <data key="d0">City</data>
+  <data key="d1">Springfield, MA</data>
+  <data key="d2">-5015.64</data>
+  <data key="d3">2908.91</data>
+</node>
+<node id="Springfield, IL">
+  <data key="d0">City</data>
+  <data key="d1">Springfield, IL</data>
+  <data key="d2">-6194.43</data>
+  <data key="d3">2749.99</data>
+</node>
+<node id="Spokane, WA">
+  <data key="d0">City</data>
+  <data key="d1">Spokane, WA</data>
+  <data key="d2">-8112.52</data>
+  <data key="d3">3293.77</data>
+</node>
+<node id="South Bend, IN">
+  <data key="d0">City</data>
+  <data key="d1">South Bend, IN</data>
+  <data key="d2">-5959.5</data>
+  <data key="d3">2879.91</data>
+</node>
+<node id="Sioux Falls, SD">
+  <data key="d0">City</data>
+  <data key="d1">Sioux Falls, SD</data>
+  <data key="d2">-6683.62</data>
+  <data key="d3">3008.43</data>
+</node>
+<node id="Sioux City, IA">
+  <data key="d0">City</data>
+  <data key="d1">Sioux City, IA</data>
+  <data key="d2">-6660.11</data>
+  <data key="d3">2935.87</data>
+</node>
+<node id="Shreveport, LA">
+  <data key="d0">City</data>
+  <data key="d1">Shreveport, LA</data>
+  <data key="d2">-6477.72</data>
+  <data key="d3">2246.28</data>
+</node>
+<node id="Sherman, TX">
+  <data key="d0">City</data>
+  <data key="d1">Sherman, TX</data>
+  <data key="d2">-6675.33</data>
+  <data key="d3">2324.36</data>
+</node>
+<node id="Sheridan, WY">
+  <data key="d0">City</data>
+  <data key="d1">Sheridan, WY</data>
+  <data key="d2">-7390.45</data>
+  <data key="d3">3095.47</data>
+</node>
+<node id="Seminole, OK">
+  <data key="d0">City</data>
+  <data key="d1">Seminole, OK</data>
+  <data key="d2">-6680.17</data>
+  <data key="d3">2434.22</data>
+</node>
+<node id="Selma, AL">
+  <data key="d0">City</data>
+  <data key="d1">Selma, AL</data>
+  <data key="d2">-6012.69</data>
+  <data key="d3">2240.06</data>
+</node>
+<node id="Sedalia, MO">
+  <data key="d0">City</data>
+  <data key="d1">Sedalia, MO</data>
+  <data key="d2">-6441.79</data>
+  <data key="d3">2674.67</data>
+</node>
+<node id="Seattle, WA">
+  <data key="d0">City</data>
+  <data key="d1">Seattle, WA</data>
+  <data key="d2">-8452.47</data>
+  <data key="d3">3288.93</data>
+</node>
+<node id="Scranton, PA">
+  <data key="d0">City</data>
+  <data key="d1">Scranton, PA</data>
+  <data key="d2">-5228.45</data>
+  <data key="d3">2861.23</data>
+</node>
+<node id="Scottsbluff, NB">
+  <data key="d0">City</data>
+  <data key="d1">Scottsbluff, NB</data>
+  <data key="d2">-7162.46</data>
+  <data key="d3">2893.02</data>
+</node>
+<node id="Schenectady, NY">
+  <data key="d0">City</data>
+  <data key="d1">Schenectady, NY</data>
+  <data key="d2">-5109.61</data>
+  <data key="d3">2958.66</data>
+</node>
+<node id="Savannah, GA">
+  <data key="d0">City</data>
+  <data key="d1">Savannah, GA</data>
+  <data key="d2">-5602.95</data>
+  <data key="d3">2216.59</data>
+</node>
+<node id="Sault Sainte Marie, MI">
+  <data key="d0">City</data>
+  <data key="d1">Sault Sainte Marie, MI</data>
+  <data key="d2">-5828.2</data>
+  <data key="d3">3212.26</data>
+</node>
+<node id="Sarasota, FL">
+  <data key="d0">City</data>
+  <data key="d1">Sarasota, FL</data>
+  <data key="d2">-5702.45</data>
+  <data key="d3">1889.08</data>
+</node>
+<node id="Santa Rosa, CA">
+  <data key="d0">City</data>
+  <data key="d1">Santa Rosa, CA</data>
+  <data key="d2">-8479.42</data>
+  <data key="d3">2656.02</data>
+</node>
+<node id="Santa Fe, NM">
+  <data key="d0">City</data>
+  <data key="d1">Santa Fe, NM</data>
+  <data key="d2">-7320.67</data>
+  <data key="d3">2465.33</data>
+</node>
+<node id="Santa Barbara, CA">
+  <data key="d0">City</data>
+  <data key="d1">Santa Barbara, CA</data>
+  <data key="d2">-8270.73</data>
+  <data key="d3">2378.25</data>
+</node>
+<node id="Santa Ana, CA">
+  <data key="d0">City</data>
+  <data key="d1">Santa Ana, CA</data>
+  <data key="d2">-8144.31</data>
+  <data key="d3">2332.65</data>
+</node>
+<node id="San Jose, CA">
+  <data key="d0">City</data>
+  <data key="d1">San Jose, CA</data>
+  <data key="d2">-8421.36</data>
+  <data key="d3">2580.03</data>
+</node>
+<node id="San Francisco, CA">
+  <data key="d0">City</data>
+  <data key="d1">San Francisco, CA</data>
+  <data key="d2">-8458.67</data>
+  <data key="d3">2610.42</data>
+</node>
+<node id="Sandusky, OH">
+  <data key="d0">City</data>
+  <data key="d1">Sandusky, OH</data>
+  <data key="d2">-5714.88</data>
+  <data key="d3">2864.02</data>
+</node>
+<node id="San Diego, CA">
+  <data key="d0">City</data>
+  <data key="d1">San Diego, CA</data>
+  <data key="d2">-8094.56</data>
+  <data key="d3">2260.1</data>
+</node>
+<node id="San Bernardino, CA">
+  <data key="d0">City</data>
+  <data key="d1">San Bernardino, CA</data>
+  <data key="d2">-8105.59</data>
+  <data key="d3">2356.85</data>
+</node>
+<node id="San Antonio, TX">
+  <data key="d0">City</data>
+  <data key="d1">San Antonio, TX</data>
+  <data key="d2">-6805.92</data>
+  <data key="d3">2032.79</data>
+</node>
+<node id="San Angelo, TX">
+  <data key="d0">City</data>
+  <data key="d1">San Angelo, TX</data>
+  <data key="d2">-6939.97</data>
+  <data key="d3">2173.73</data>
+</node>
+<node id="Salt Lake City, UT">
+  <data key="d0">City</data>
+  <data key="d1">Salt Lake City, UT</data>
+  <data key="d2">-7730.4</data>
+  <data key="d3">2816.32</data>
+</node>
+<node id="Salisbury, MD">
+  <data key="d0">City</data>
+  <data key="d1">Salisbury, MD</data>
+  <data key="d2">-5223.61</data>
+  <data key="d3">2651.18</data>
+</node>
+<node id="Salinas, CA">
+  <data key="d0">City</data>
+  <data key="d1">Salinas, CA</data>
+  <data key="d2">-8405.49</data>
+  <data key="d3">2533.72</data>
+</node>
+<node id="Salina, KS">
+  <data key="d0">City</data>
+  <data key="d1">Salina, KS</data>
+  <data key="d2">-6744.43</data>
+  <data key="d3">2683.68</data>
+</node>
+<node id="Salida, CO">
+  <data key="d0">City</data>
+  <data key="d1">Salida, CO</data>
+  <data key="d2">-7324.14</data>
+  <data key="d3">2662.24</data>
+</node>
+<node id="Salem, OR">
+  <data key="d0">City</data>
+  <data key="d1">Salem, OR</data>
+  <data key="d2">-8500.82</data>
+  <data key="d3">3105.14</data>
+</node>
+<node id="Saint Paul, MN">
+  <data key="d0">City</data>
+  <data key="d1">Saint Paul, MN</data>
+  <data key="d2">-6432.79</data>
+  <data key="d3">3105.85</data>
+</node>
+<node id="Saint Louis, MO">
+  <data key="d0">City</data>
+  <data key="d1">Saint Louis, MO</data>
+  <data key="d2">-6231.74</data>
+  <data key="d3">2668.46</data>
+</node>
+<node id="Saint Joseph, MO">
+  <data key="d0">City</data>
+  <data key="d1">Saint Joseph, MO</data>
+  <data key="d2">-6553.01</data>
+  <data key="d3">2747.93</data>
+</node>
+<node id="Saint Joseph, MI">
+  <data key="d0">City</data>
+  <data key="d1">Saint Joseph, MI</data>
+  <data key="d2">-5975.39</data>
+  <data key="d3">2908.91</data>
+</node>
+<node id="Saint Johnsbury, VT">
+  <data key="d0">City</data>
+  <data key="d1">Saint Johnsbury, VT</data>
+  <data key="d2">-4976.25</data>
+  <data key="d3">3069.21</data>
+</node>
+<node id="Saint Cloud, MN">
+  <data key="d0">City</data>
+  <data key="d1">Saint Cloud, MN</data>
+  <data key="d2">-6506.72</data>
+  <data key="d3">3148.67</data>
+</node>
+<node id="Saint Augustine, FL">
+  <data key="d0">City</data>
+  <data key="d1">Saint Augustine, FL</data>
+  <data key="d2">-5618.84</data>
+  <data key="d3">2065.25</data>
+</node>
+<node id="Saginaw, MI">
+  <data key="d0">City</data>
+  <data key="d1">Saginaw, MI</data>
+  <data key="d2">-5799.89</data>
+  <data key="d3">3000.82</data>
+</node>
+<node id="Sacramento, CA">
+  <data key="d0">City</data>
+  <data key="d1">Sacramento, CA</data>
+  <data key="d2">-8394.41</data>
+  <data key="d3">2666.4</data>
+</node>
+<node id="Rutland, VT">
+  <data key="d0">City</data>
+  <data key="d1">Rutland, VT</data>
+  <data key="d2">-5041.91</data>
+  <data key="d3">3013.26</data>
+</node>
+<node id="Roswell, NM">
+  <data key="d0">City</data>
+  <data key="d1">Roswell, NM</data>
+  <data key="d2">-7222.55</data>
+  <data key="d3">2307.8</data>
+</node>
+<node id="Rocky Mount, NC">
+  <data key="d0">City</data>
+  <data key="d1">Rocky Mount, NC</data>
+  <data key="d2">-5375.64</data>
+  <data key="d3">2483.28</data>
+</node>
+<node id="Rock Springs, WY">
+  <data key="d0">City</data>
+  <data key="d1">Rock Springs, WY</data>
+  <data key="d2">-7547.32</data>
+  <data key="d3">2873.69</data>
+</node>
+<node id="Rockford, IL">
+  <data key="d0">City</data>
+  <data key="d1">Rockford, IL</data>
+  <data key="d2">-6156.4</data>
+  <data key="d3">2920.67</data>
+</node>
+<node id="Rochester, NY">
+  <data key="d0">City</data>
+  <data key="d1">Rochester, NY</data>
+  <data key="d2">-5362.51</data>
+  <data key="d3">2982.15</data>
+</node>
+<node id="Rochester, MN">
+  <data key="d0">City</data>
+  <data key="d1">Rochester, MN</data>
+  <data key="d2">-6388.57</data>
+  <data key="d3">3041.59</data>
+</node>
+<node id="Roanoke, VA">
+  <data key="d0">City</data>
+  <data key="d1">Roanoke, VA</data>
+  <data key="d2">-5523.51</data>
+  <data key="d3">2575.2</data>
+</node>
+<node id="Richmond, VA">
+  <data key="d0">City</data>
+  <data key="d1">Richmond, VA</data>
+  <data key="d2">-5351.44</data>
+  <data key="d3">2593.85</data>
+</node>
+<node id="Richmond, IN">
+  <data key="d0">City</data>
+  <data key="d1">Richmond, IN</data>
+  <data key="d2">-5865.51</data>
+  <data key="d3">2752.08</data>
+</node>
+<node id="Richfield, UT">
+  <data key="d0">City</data>
+  <data key="d1">Richfield, UT</data>
+  <data key="d2">-7744.91</data>
+  <data key="d3">2678.84</data>
+</node>
+<node id="Rhinelander, WI">
+  <data key="d0">City</data>
+  <data key="d1">Rhinelander, WI</data>
+  <data key="d2">-6178.52</data>
+  <data key="d3">3153.51</data>
+</node>
+<node id="Reno, NV">
+  <data key="d0">City</data>
+  <data key="d1">Reno, NV</data>
+  <data key="d2">-8278.33</data>
+  <data key="d3">2730.66</data>
+</node>
+<node id="Regina, SA">
+  <data key="d0">City</data>
+  <data key="d1">Regina, SA</data>
+  <data key="d2">-7230.86</data>
+  <data key="d3">3483.78</data>
+</node>
+<node id="Red Bluff, CA">
+  <data key="d0">City</data>
+  <data key="d1">Red Bluff, CA</data>
+  <data key="d2">-8446.23</data>
+  <data key="d3">2776.26</data>
+</node>
+<node id="Reading, PA">
+  <data key="d0">City</data>
+  <data key="d1">Reading, PA</data>
+  <data key="d2">-5246.43</data>
+  <data key="d3">2786.63</data>
+</node>
+<node id="Ravenna, OH">
+  <data key="d0">City</data>
+  <data key="d1">Ravenna, OH</data>
+  <data key="d2">-5613.31</data>
+  <data key="d3">2843.96</data>
+</node>
+<edge source="Youngstown, OH" target="Winchester, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">250.0</data>
+  <data key="d6">216.83469141260514</data>
+  <data key="d7">Winchester, VA to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Wheeling, WV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">85.0</data>
+  <data key="d6">71.33370731989197</data>
+  <data key="d7">Wheeling, WV to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Warren, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">118.0</data>
+  <data key="d6">116.51747508421194</data>
+  <data key="d7">Warren, PA to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">116.0</data>
+  <data key="d6">104.46002584721077</data>
+  <data key="d7">Uniontown, PA to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Toronto, ON">
+  <data key="d4">ROUTE</data>
+  <data key="d5">288.0</data>
+  <data key="d6">196.87259027096698</data>
+  <data key="d7">Toronto, ON to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Toledo, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">170.0</data>
+  <data key="d6">203.267367769645</data>
+  <data key="d7">Toledo, OH to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">60.0</data>
+  <data key="d6">51.15230688835072</data>
+  <data key="d7">Steubenville, OH to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Sandusky, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">125.0</data>
+  <data key="d6">144.35463345525184</data>
+  <data key="d7">Sandusky, OH to Youngstown, OH</data>
+</edge>
+<edge source="Youngstown, OH" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">34.0</data>
+  <data key="d6">40.95082538850782</data>
+  <data key="d7">Ravenna, OH to Youngstown, OH</data>
+</edge>
+<edge source="Yankton, SD" target="Watertown, SD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">156.0</data>
+  <data key="d6">140.91211906716887</data>
+  <data key="d7">Watertown, SD to Yankton, SD</data>
+</edge>
+<edge source="Yankton, SD" target="Sioux Falls, SD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">82.0</data>
+  <data key="d6">64.48813999488576</data>
+  <data key="d7">Sioux Falls, SD to Yankton, SD</data>
+</edge>
+<edge source="Yankton, SD" target="Sioux City, IA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">67.0</data>
+  <data key="d6">74.16948496518002</data>
+  <data key="d7">Sioux City, IA to Yankton, SD</data>
+</edge>
+<edge source="Yakima, WA" target="Wenatchee, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">117.0</data>
+  <data key="d6">58.16595309972986</data>
+  <data key="d7">Wenatchee, WA to Yakima, WA</data>
+</edge>
+<edge source="Yakima, WA" target="Walla Walla, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">132.0</data>
+  <data key="d6">155.0174870780706</data>
+  <data key="d7">Walla Walla, WA to Yakima, WA</data>
+</edge>
+<edge source="Yakima, WA" target="Tacoma, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">138.0</data>
+  <data key="d6">139.84224397513057</data>
+  <data key="d7">Tacoma, WA to Yakima, WA</data>
+</edge>
+<edge source="Yakima, WA" target="Spokane, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">219.0</data>
+  <data key="d6">226.59939298241625</data>
+  <data key="d7">Spokane, WA to Yakima, WA</data>
+</edge>
+<edge source="Yakima, WA" target="Seattle, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">148.0</data>
+  <data key="d6">143.47993100081962</data>
+  <data key="d7">Seattle, WA to Yakima, WA</data>
+</edge>
+<edge source="Yakima, WA" target="Salem, OR">
+  <data key="d4">ROUTE</data>
+  <data key="d5">236.0</data>
+  <data key="d6">208.4871698690358</data>
+  <data key="d7">Salem, OR to Yakima, WA</data>
+</edge>
+<edge source="Worcester, MA" target="Waterbury, CT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">98.0</data>
+  <data key="d6">99.6786561907814</data>
+  <data key="d7">Waterbury, CT to Worcester, MA</data>
+</edge>
+<edge source="Worcester, MA" target="Springfield, MA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">50.0</data>
+  <data key="d6">55.82277760914511</data>
+  <data key="d7">Springfield, MA to Worcester, MA</data>
+</edge>
+<edge source="Worcester, MA" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">150.0</data>
+  <data key="d6">153.3211391165614</data>
+  <data key="d7">Schenectady, NY to Worcester, MA</data>
+</edge>
+<edge source="Worcester, MA" target="Saint Johnsbury, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">188.0</data>
+  <data key="d6">149.31364304711073</data>
+  <data key="d7">Saint Johnsbury, VT to Worcester, MA</data>
+</edge>
+<edge source="Worcester, MA" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">135.0</data>
+  <data key="d6">122.91466023221173</data>
+  <data key="d7">Rutland, VT to Worcester, MA</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Wausau, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">111.0</data>
+  <data key="d6">92.3177924346115</data>
+  <data key="d7">Wausau, WI to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Waukegan, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">170.0</data>
+  <data key="d6">160.2001978775305</data>
+  <data key="d7">Waukegan, IL to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Waterloo, IA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">212.0</data>
+  <data key="d6">193.9743019062066</data>
+  <data key="d7">Waterloo, IA to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Stevens Point, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">78.0</data>
+  <data key="d6">63.033660848787704</data>
+  <data key="d7">Stevens Point, WI to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">122.0</data>
+  <data key="d6">104.75710429369447</data>
+  <data key="d7">Rockford, IL to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">166.0</data>
+  <data key="d6">187.81362943088016</data>
+  <data key="d7">Rochester, MN to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Wisconsin Dells, WI" target="Rhinelander, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">170.0</data>
+  <data key="d6">140.959388832387</data>
+  <data key="d7">Rhinelander, WI to Wisconsin Dells, WI</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Wilmington, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">214.0</data>
+  <data key="d6">205.99490333500978</data>
+  <data key="d7">Wilmington, NC to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Williamson, WV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">240.0</data>
+  <data key="d6">177.73495351224517</data>
+  <data key="d7">Williamson, WV to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Sumter, SC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">185.0</data>
+  <data key="d6">150.77750661156313</data>
+  <data key="d7">Sumter, SC to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">197.0</data>
+  <data key="d6">163.46495465389532</data>
+  <data key="d7">Staunton, VA to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">151.0</data>
+  <data key="d6">169.65024786306674</data>
+  <data key="d7">Rocky Mount, NC to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">109.0</data>
+  <data key="d6">83.65867139753048</data>
+  <data key="d7">Roanoke, VA to Winston-Salem, NC</data>
+</edge>
+<edge source="Winston-Salem, NC" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">225.0</data>
+  <data key="d6">217.5835713007769</data>
+  <data key="d7">Richmond, VA to Winston-Salem, NC</data>
+</edge>
+<edge source="Winnipeg, MB" target="Valley City, ND">
+  <data key="d4">ROUTE</data>
+  <data key="d5">278.0</data>
+  <data key="d6">212.99891196905187</data>
+  <data key="d7">Valley City, ND to Winnipeg, MB</data>
+</edge>
+<edge source="Winchester, VA" target="Wilmington, DE">
+  <data key="d4">ROUTE</data>
+  <data key="d5">168.0</data>
+  <data key="d6">184.44776957176808</data>
+  <data key="d7">Wilmington, DE to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Williamsport, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">201.0</data>
+  <data key="d6">163.37194404180906</data>
+  <data key="d7">Williamsport, PA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Wheeling, WV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">203.0</data>
+  <data key="d6">187.0378956254579</data>
+  <data key="d7">Wheeling, WV to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Washington, DC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">73.0</data>
+  <data key="d6">80.80434951164484</data>
+  <data key="d7">Washington, DC to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Warren, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">273.0</data>
+  <data key="d6">195.85887827719205</data>
+  <data key="d7">Warren, PA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">134.0</data>
+  <data key="d6">119.0661866358367</data>
+  <data key="d7">Uniontown, PA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">206.0</data>
+  <data key="d6">188.22364490148342</data>
+  <data key="d7">Steubenville, OH to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">93.0</data>
+  <data key="d6">95.45870939835704</data>
+  <data key="d7">Staunton, VA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">255.0</data>
+  <data key="d6">185.7619543932511</data>
+  <data key="d7">Salisbury, MD to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">263.0</data>
+  <data key="d6">225.93407888142946</data>
+  <data key="d7">Rocky Mount, NC to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">181.0</data>
+  <data key="d6">180.88645526959732</data>
+  <data key="d7">Roanoke, VA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">143.0</data>
+  <data key="d6">124.10707675229537</data>
+  <data key="d7">Richmond, VA to Winchester, VA</data>
+</edge>
+<edge source="Winchester, VA" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">164.0</data>
+  <data key="d6">173.0652830581571</data>
+  <data key="d7">Reading, PA to Winchester, VA</data>
+</edge>
+<edge source="Wilmington, NC" target="Sumter, SC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">157.0</data>
+  <data key="d6">169.3521387523638</data>
+  <data key="d7">Sumter, SC to Wilmington, NC</data>
+</edge>
+<edge source="Wilmington, NC" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">127.0</data>
+  <data key="d6">117.73152508992656</data>
+  <data key="d7">Rocky Mount, NC to Wilmington, NC</data>
+</edge>
+<edge source="Wilmington, DE" target="Williamsport, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">172.0</data>
+  <data key="d6">144.15740910546305</data>
+  <data key="d7">Williamsport, PA to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Waterbury, CT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">206.0</data>
+  <data key="d6">212.8485781018989</data>
+  <data key="d7">Waterbury, CT to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Washington, DC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">109.0</data>
+  <data key="d6">118.26297476387089</data>
+  <data key="d7">Washington, DC to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Trenton, NJ">
+  <data key="d4">ROUTE</data>
+  <data key="d5">60.0</data>
+  <data key="d6">63.295251796639405</data>
+  <data key="d7">Trenton, NJ to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">105.0</data>
+  <data key="d6">89.21926249414965</data>
+  <data key="d7">Stroudsburg, PA to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">147.0</data>
+  <data key="d6">114.97780351006865</data>
+  <data key="d7">Scranton, PA to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">103.0</data>
+  <data key="d6">95.43166036489181</data>
+  <data key="d7">Salisbury, MD to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">219.0</data>
+  <data key="d6">201.36155939006807</data>
+  <data key="d7">Richmond, VA to Wilmington, DE</data>
+</edge>
+<edge source="Wilmington, DE" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">57.0</data>
+  <data key="d6">47.91105196089932</data>
+  <data key="d7">Reading, PA to Wilmington, DE</data>
+</edge>
+<edge source="Williston, ND" target="Regina, SA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">188.0</data>
+  <data key="d6">172.21405662721048</data>
+  <data key="d7">Regina, SA to Williston, ND</data>
+</edge>
+<edge source="Williamsport, PA" target="Watertown, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">234.0</data>
+  <data key="d6">202.8456422997546</data>
+  <data key="d7">Watertown, NY to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Washington, DC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">210.0</data>
+  <data key="d6">163.10288348156172</data>
+  <data key="d7">Washington, DC to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Warren, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">172.0</data>
+  <data key="d6">153.53537214596534</data>
+  <data key="d7">Warren, PA to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Utica, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">207.0</data>
+  <data key="d6">177.40380520157987</data>
+  <data key="d7">Utica, NY to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">210.0</data>
+  <data key="d6">210.43392145754447</data>
+  <data key="d7">Uniontown, PA to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Trenton, NJ">
+  <data key="d4">ROUTE</data>
+  <data key="d5">182.0</data>
+  <data key="d6">169.470180562835</data>
+  <data key="d7">Trenton, NJ to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">163.0</data>
+  <data key="d6">137.52567069460184</data>
+  <data key="d7">Syracuse, NY to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">124.0</data>
+  <data key="d6">126.35436597126322</data>
+  <data key="d7">Stroudsburg, PA to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">93.0</data>
+  <data key="d6">92.57941077799111</data>
+  <data key="d7">Scranton, PA to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">275.0</data>
+  <data key="d6">221.29495701438847</data>
+  <data key="d7">Salisbury, MD to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">166.0</data>
+  <data key="d6">138.51563846728678</data>
+  <data key="d7">Rochester, NY to Williamsport, PA</data>
+</edge>
+<edge source="Williamsport, PA" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">115.0</data>
+  <data key="d6">97.51035073262686</data>
+  <data key="d7">Reading, PA to Williamsport, PA</data>
+</edge>
+<edge source="Williamson, WV" target="Wheeling, WV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">269.0</data>
+  <data key="d6">197.17755272849914</data>
+  <data key="d7">Wheeling, WV to Williamson, WV</data>
+</edge>
+<edge source="Williamson, WV" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">294.0</data>
+  <data key="d6">217.8144503929893</data>
+  <data key="d7">Steubenville, OH to Williamson, WV</data>
+</edge>
+<edge source="Williamson, WV" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">285.0</data>
+  <data key="d6">224.15564793241322</data>
+  <data key="d7">Staunton, VA to Williamson, WV</data>
+</edge>
+<edge source="Williamson, WV" target="Springfield, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">250.0</data>
+  <data key="d6">187.42298685059984</data>
+  <data key="d7">Springfield, OH to Williamson, WV</data>
+</edge>
+<edge source="Williamson, WV" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">213.0</data>
+  <data key="d6">164.12183888806499</data>
+  <data key="d7">Roanoke, VA to Williamson, WV</data>
+</edge>
+<edge source="Wichita Falls, TX" target="Waco, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">204.0</data>
+  <data key="d6">187.27431884804724</data>
+  <data key="d7">Waco, TX to Wichita Falls, TX</data>
+</edge>
+<edge source="Wichita Falls, TX" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">117.0</data>
+  <data key="d6">131.1186287298644</data>
+  <data key="d7">Sherman, TX to Wichita Falls, TX</data>
+</edge>
+<edge source="Wichita Falls, TX" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">180.0</data>
+  <data key="d6">155.16744503922183</data>
+  <data key="d7">Seminole, OK to Wichita Falls, TX</data>
+</edge>
+<edge source="Wichita Falls, TX" target="San Angelo, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">234.0</data>
+  <data key="d6">215.8462177106657</data>
+  <data key="d7">San Angelo, TX to Wichita Falls, TX</data>
+</edge>
+<edge source="Wichita, KS" target="Tulsa, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">190.0</data>
+  <data key="d6">144.68658127138087</data>
+  <data key="d7">Tulsa, OK to Wichita, KS</data>
+</edge>
+<edge source="Wichita, KS" target="Topeka, KS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">171.0</data>
+  <data key="d6">148.81267755134346</data>
+  <data key="d7">Topeka, KS to Wichita, KS</data>
+</edge>
+<edge source="Wichita, KS" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">216.0</data>
+  <data key="d6">175.9850470920754</data>
+  <data key="d7">Seminole, OK to Wichita, KS</data>
+</edge>
+<edge source="Wichita, KS" target="Salina, KS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">87.0</data>
+  <data key="d6">81.64565389535449</data>
+  <data key="d7">Salina, KS to Wichita, KS</data>
+</edge>
+<edge source="Wichita, KS" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">256.0</data>
+  <data key="d6">224.71631115697838</data>
+  <data key="d7">Saint Joseph, MO to Wichita, KS</data>
+</edge>
+<edge source="Wheeling, WV" target="Warren, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">198.0</data>
+  <data key="d6">164.46579036383213</data>
+  <data key="d7">Warren, PA to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">69.0</data>
+  <data key="d6">69.39681837087306</data>
+  <data key="d7">Uniontown, PA to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Toledo, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">206.0</data>
+  <data key="d6">223.35840839332678</data>
+  <data key="d7">Toledo, OH to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">25.0</data>
+  <data key="d6">21.21677873759341</data>
+  <data key="d7">Steubenville, OH to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">248.0</data>
+  <data key="d6">174.91120604466673</data>
+  <data key="d7">Staunton, VA to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Springfield, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">174.0</data>
+  <data key="d6">213.7412213401998</data>
+  <data key="d7">Springfield, OH to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Sandusky, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">162.0</data>
+  <data key="d6">167.32631233610616</data>
+  <data key="d7">Sandusky, OH to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">316.0</data>
+  <data key="d6">200.8062889951407</data>
+  <data key="d7">Roanoke, VA to Wheeling, WV</data>
+</edge>
+<edge source="Wheeling, WV" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">105.0</data>
+  <data key="d6">83.44237832181007</data>
+  <data key="d7">Ravenna, OH to Wheeling, WV</data>
+</edge>
+<edge source="West Palm Beach, FL" target="Tampa, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">217.0</data>
+  <data key="d6">186.32755056620084</data>
+  <data key="d7">Tampa, FL to West Palm Beach, FL</data>
+</edge>
+<edge source="West Palm Beach, FL" target="Sarasota, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">198.0</data>
+  <data key="d6">176.61929452922192</data>
+  <data key="d7">Sarasota, FL to West Palm Beach, FL</data>
+</edge>
+<edge source="Wenatchee, WA" target="Walla Walla, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">238.0</data>
+  <data key="d6">166.13822197194696</data>
+  <data key="d7">Walla Walla, WA to Wenatchee, WA</data>
+</edge>
+<edge source="Wenatchee, WA" target="Tacoma, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">183.0</data>
+  <data key="d6">146.33800770818172</data>
+  <data key="d7">Tacoma, WA to Wenatchee, WA</data>
+</edge>
+<edge source="Wenatchee, WA" target="Spokane, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">167.0</data>
+  <data key="d6">201.79037489434353</data>
+  <data key="d7">Spokane, WA to Wenatchee, WA</data>
+</edge>
+<edge source="Wenatchee, WA" target="Seattle, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">153.0</data>
+  <data key="d6">139.45506408875906</data>
+  <data key="d7">Seattle, WA to Wenatchee, WA</data>
+</edge>
+<edge source="Weed, CA" target="Santa Rosa, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">314.0</data>
+  <data key="d6">207.1607163532701</data>
+  <data key="d7">Santa Rosa, CA to Weed, CA</data>
+</edge>
+<edge source="Weed, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">236.0</data>
+  <data key="d6">205.17228492172146</data>
+  <data key="d7">Sacramento, CA to Weed, CA</data>
+</edge>
+<edge source="Weed, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">303.0</data>
+  <data key="d6">221.38062358752225</data>
+  <data key="d7">Reno, NV to Weed, CA</data>
+</edge>
+<edge source="Weed, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">105.0</data>
+  <data key="d6">86.2854130198146</data>
+  <data key="d7">Red Bluff, CA to Weed, CA</data>
+</edge>
+<edge source="Waycross, GA" target="Valdosta, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">63.0</data>
+  <data key="d6">69.68249493237195</data>
+  <data key="d7">Valdosta, GA to Waycross, GA</data>
+</edge>
+<edge source="Waycross, GA" target="Tampa, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">264.0</data>
+  <data key="d6">226.0356454190357</data>
+  <data key="d7">Tampa, FL to Waycross, GA</data>
+</edge>
+<edge source="Waycross, GA" target="Tallahassee, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">145.0</data>
+  <data key="d6">143.56670435724246</data>
+  <data key="d7">Tallahassee, FL to Waycross, GA</data>
+</edge>
+<edge source="Waycross, GA" target="Swainsboro, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">105.0</data>
+  <data key="d6">95.35249655882106</data>
+  <data key="d7">Swainsboro, GA to Waycross, GA</data>
+</edge>
+<edge source="Waycross, GA" target="Savannah, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">109.0</data>
+  <data key="d6">105.41611451765843</data>
+  <data key="d7">Savannah, GA to Waycross, GA</data>
+</edge>
+<edge source="Waycross, GA" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">115.0</data>
+  <data key="d6">116.23587613125315</data>
+  <data key="d7">Saint Augustine, FL to Waycross, GA</data>
+</edge>
+<edge source="Wausau, WI" target="Waukegan, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">244.0</data>
+  <data key="d6">218.87082811558074</data>
+  <data key="d7">Waukegan, IL to Wausau, WI</data>
+</edge>
+<edge source="Wausau, WI" target="Stevens Point, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">33.0</data>
+  <data key="d6">30.76312727926093</data>
+  <data key="d7">Stevens Point, WI to Wausau, WI</data>
+</edge>
+<edge source="Wausau, WI" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">214.0</data>
+  <data key="d6">189.5600298058639</data>
+  <data key="d7">Rockford, IL to Wausau, WI</data>
+</edge>
+<edge source="Wausau, WI" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">201.0</data>
+  <data key="d6">205.3836103490241</data>
+  <data key="d7">Rochester, MN to Wausau, WI</data>
+</edge>
+<edge source="Wausau, WI" target="Rhinelander, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">59.0</data>
+  <data key="d6">49.38724632939173</data>
+  <data key="d7">Rhinelander, WI to Wausau, WI</data>
+</edge>
+<edge source="Waukegan, IL" target="Traverse City, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">359.0</data>
+  <data key="d6">224.95794495860756</data>
+  <data key="d7">Traverse City, MI to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="Terre Haute, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">225.0</data>
+  <data key="d6">201.7777559593722</data>
+  <data key="d7">Terre Haute, IN to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="Stevens Point, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">191.64030525961914</data>
+  <data key="d7">Stevens Point, WI to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="Springfield, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">222.0</data>
+  <data key="d6">217.04651022303975</data>
+  <data key="d7">Springfield, IL to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">118.84952376850325</data>
+  <data key="d7">South Bend, IN to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="Saint Joseph, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">129.0</data>
+  <data key="d6">94.9970462698707</data>
+  <data key="d7">Saint Joseph, MI to Waukegan, IL</data>
+</edge>
+<edge source="Waukegan, IL" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">72.0</data>
+  <data key="d6">87.95022057959787</data>
+  <data key="d7">Rockford, IL to Waukegan, IL</data>
+</edge>
+<edge source="Watertown, SD" target="Valley City, ND">
+  <data key="d4">ROUTE</data>
+  <data key="d5">195.0</data>
+  <data key="d6">152.7802297419397</data>
+  <data key="d7">Valley City, ND to Watertown, SD</data>
+</edge>
+<edge source="Watertown, SD" target="Sioux Falls, SD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">117.0</data>
+  <data key="d6">97.57022342907727</data>
+  <data key="d7">Sioux Falls, SD to Watertown, SD</data>
+</edge>
+<edge source="Watertown, SD" target="Sioux City, IA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">205.0</data>
+  <data key="d6">173.80820981760357</data>
+  <data key="d7">Sioux City, IA to Watertown, SD</data>
+</edge>
+<edge source="Watertown, SD" target="Saint Cloud, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">169.0</data>
+  <data key="d6">208.36242103603985</data>
+  <data key="d7">Saint Cloud, MN to Watertown, SD</data>
+</edge>
+<edge source="Watertown, NY" target="Utica, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">83.0</data>
+  <data key="d6">76.69766945611869</data>
+  <data key="d7">Utica, NY to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">71.0</data>
+  <data key="d6">66.20026963691285</data>
+  <data key="d7">Syracuse, NY to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">253.0</data>
+  <data key="d6">212.64400485318174</data>
+  <data key="d7">Stroudsburg, PA to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">178.4177942358889</data>
+  <data key="d7">Scranton, PA to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">152.0</data>
+  <data key="d6">157.95554627805942</data>
+  <data key="d7">Schenectady, NY to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">224.0</data>
+  <data key="d6">205.4052545579108</data>
+  <data key="d7">Rutland, VT to Watertown, NY</data>
+</edge>
+<edge source="Watertown, NY" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">133.0</data>
+  <data key="d6">129.80855018064094</data>
+  <data key="d7">Rochester, NY to Watertown, NY</data>
+</edge>
+<edge source="Waterloo, IA" target="Saint Paul, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">195.0</data>
+  <data key="d6">177.24014443686244</data>
+  <data key="d7">Saint Paul, MN to Waterloo, IA</data>
+</edge>
+<edge source="Waterloo, IA" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">181.0</data>
+  <data key="d6">224.43392546582695</data>
+  <data key="d7">Rockford, IL to Waterloo, IA</data>
+</edge>
+<edge source="Waterloo, IA" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">115.0</data>
+  <data key="d6">105.34747457817859</data>
+  <data key="d7">Rochester, MN to Waterloo, IA</data>
+</edge>
+<edge source="Waterbury, CT" target="Utica, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">201.0</data>
+  <data key="d6">185.2302267449891</data>
+  <data key="d7">Utica, NY to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Trenton, NJ">
+  <data key="d4">ROUTE</data>
+  <data key="d5">146.0</data>
+  <data key="d6">149.79137658757313</data>
+  <data key="d7">Trenton, NJ to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">167.0</data>
+  <data key="d6">152.83560449057725</data>
+  <data key="d7">Stroudsburg, PA to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Springfield, MA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">56.0</data>
+  <data key="d6">49.55037840420549</data>
+  <data key="d7">Springfield, MA to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">192.0</data>
+  <data key="d6">181.26864731662803</data>
+  <data key="d7">Scranton, PA to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">107.54148687832064</data>
+  <data key="d7">Schenectady, NY to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Saint Johnsbury, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">241.0</data>
+  <data key="d6">210.6914950822648</data>
+  <data key="d7">Saint Johnsbury, VT to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">168.0</data>
+  <data key="d6">142.45737397551628</data>
+  <data key="d7">Rutland, VT to Waterbury, CT</data>
+</edge>
+<edge source="Waterbury, CT" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">214.0</data>
+  <data key="d6">216.10214830028931</data>
+  <data key="d7">Reading, PA to Waterbury, CT</data>
+</edge>
+<edge source="Washington, DC" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">207.0</data>
+  <data key="d6">199.21227999297625</data>
+  <data key="d7">Uniontown, PA to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Trenton, NJ">
+  <data key="d4">ROUTE</data>
+  <data key="d5">169.0</data>
+  <data key="d6">181.54573445828987</data>
+  <data key="d7">Trenton, NJ to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">192.9230644583481</data>
+  <data key="d7">Stroudsburg, PA to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">150.0</data>
+  <data key="d6">149.93983360001445</data>
+  <data key="d7">Staunton, VA to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">248.0</data>
+  <data key="d6">197.85887723324421</data>
+  <data key="d7">Scranton, PA to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">196.0</data>
+  <data key="d6">105.13981643506945</data>
+  <data key="d7">Salisbury, MD to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">230.0</data>
+  <data key="d6">210.66332689863225</data>
+  <data key="d7">Rocky Mount, NC to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">110.0</data>
+  <data key="d6">97.6708144739257</data>
+  <data key="d7">Richmond, VA to Washington, DC</data>
+</edge>
+<edge source="Washington, DC" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">139.0</data>
+  <data key="d6">125.21465768830726</data>
+  <data key="d7">Reading, PA to Washington, DC</data>
+</edge>
+<edge source="Warren, PA" target="Uniontown, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">189.0</data>
+  <data key="d6">140.75016234448898</data>
+  <data key="d7">Uniontown, PA to Warren, PA</data>
+</edge>
+<edge source="Warren, PA" target="Toronto, ON">
+  <data key="d4">ROUTE</data>
+  <data key="d5">195.0</data>
+  <data key="d6">125.50002549800546</data>
+  <data key="d7">Toronto, ON to Warren, PA</data>
+</edge>
+<edge source="Warren, PA" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">231.0</data>
+  <data key="d6">222.60059029571323</data>
+  <data key="d7">Syracuse, NY to Warren, PA</data>
+</edge>
+<edge source="Warren, PA" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">173.0</data>
+  <data key="d6">145.10611048470705</data>
+  <data key="d7">Steubenville, OH to Warren, PA</data>
+</edge>
+<edge source="Warren, PA" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">158.0</data>
+  <data key="d6">139.16307125096068</data>
+  <data key="d7">Rochester, NY to Warren, PA</data>
+</edge>
+<edge source="Warren, PA" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">144.0</data>
+  <data key="d6">152.72995416747858</data>
+  <data key="d7">Ravenna, OH to Warren, PA</data>
+</edge>
+<edge source="Walla Walla, WA" target="Spokane, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">160.0</data>
+  <data key="d6">127.52430121353342</data>
+  <data key="d7">Spokane, WA to Walla Walla, WA</data>
+</edge>
+<edge source="Waco, TX" target="Victoria, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">223.0</data>
+  <data key="d6">189.53190760397018</data>
+  <data key="d7">Victoria, TX to Waco, TX</data>
+</edge>
+<edge source="Waco, TX" target="Tyler, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">134.0</data>
+  <data key="d6">138.61035495229126</data>
+  <data key="d7">Tyler, TX to Waco, TX</data>
+</edge>
+<edge source="Waco, TX" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">163.0</data>
+  <data key="d6">148.97586415255364</data>
+  <data key="d7">Sherman, TX to Waco, TX</data>
+</edge>
+<edge source="Waco, TX" target="San Antonio, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">181.0</data>
+  <data key="d6">174.6143914458368</data>
+  <data key="d7">San Antonio, TX to Waco, TX</data>
+</edge>
+<edge source="Waco, TX" target="San Angelo, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">228.0</data>
+  <data key="d6">228.1248123286899</data>
+  <data key="d7">San Angelo, TX to Waco, TX</data>
+</edge>
+<edge source="Vincennes, IN" target="Terre Haute, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">58.0</data>
+  <data key="d6">55.21286987650635</data>
+  <data key="d7">Terre Haute, IN to Vincennes, IN</data>
+</edge>
+<edge source="Vincennes, IN" target="Springfield, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">168.0</data>
+  <data key="d6">165.6843293736618</data>
+  <data key="d7">Springfield, IL to Vincennes, IN</data>
+</edge>
+<edge source="Vincennes, IN" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">246.0</data>
+  <data key="d6">225.36024605062892</data>
+  <data key="d7">South Bend, IN to Vincennes, IN</data>
+</edge>
+<edge source="Vincennes, IN" target="Saint Louis, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">153.0</data>
+  <data key="d6">183.86706611027407</data>
+  <data key="d7">Saint Louis, MO to Vincennes, IN</data>
+</edge>
+<edge source="Vincennes, IN" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">190.0</data>
+  <data key="d6">198.96557415794308</data>
+  <data key="d7">Richmond, IN to Vincennes, IN</data>
+</edge>
+<edge source="Victoria, TX" target="San Antonio, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">113.0</data>
+  <data key="d6">111.2482274016083</data>
+  <data key="d7">San Antonio, TX to Victoria, TX</data>
+</edge>
+<edge source="Vicksburg, MS" target="Tupelo, MS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">230.0</data>
+  <data key="d6">199.73754228987607</data>
+  <data key="d7">Tupelo, MS to Vicksburg, MS</data>
+</edge>
+<edge source="Vicksburg, MS" target="Shreveport, LA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">186.0</data>
+  <data key="d6">198.63758808443072</data>
+  <data key="d7">Shreveport, LA to Vicksburg, MS</data>
+</edge>
+<edge source="Vancouver, BC" target="Tacoma, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">175.0</data>
+  <data key="d6">148.14266772270602</data>
+  <data key="d7">Tacoma, WA to Vancouver, BC</data>
+</edge>
+<edge source="Vancouver, BC" target="Seattle, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">145.0</data>
+  <data key="d6">127.66963695413286</data>
+  <data key="d7">Seattle, WA to Vancouver, BC</data>
+</edge>
+<edge source="Valdosta, GA" target="Tampa, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">233.0</data>
+  <data key="d6">207.07984667755565</data>
+  <data key="d7">Tampa, FL to Valdosta, GA</data>
+</edge>
+<edge source="Valdosta, GA" target="Tallahassee, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">82.0</data>
+  <data key="d6">73.90511281366048</data>
+  <data key="d7">Tallahassee, FL to Valdosta, GA</data>
+</edge>
+<edge source="Valdosta, GA" target="Swainsboro, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">168.0</data>
+  <data key="d6">138.4766857633448</data>
+  <data key="d7">Swainsboro, GA to Valdosta, GA</data>
+</edge>
+<edge source="Valdosta, GA" target="Savannah, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">172.0</data>
+  <data key="d6">174.24400850531487</data>
+  <data key="d7">Savannah, GA to Valdosta, GA</data>
+</edge>
+<edge source="Valdosta, GA" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">155.0</data>
+  <data key="d6">150.19915911881816</data>
+  <data key="d7">Saint Augustine, FL to Valdosta, GA</data>
+</edge>
+<edge source="Utica, NY" target="Trenton, NJ">
+  <data key="d4">ROUTE</data>
+  <data key="d5">247.0</data>
+  <data key="d6">201.5362404134801</data>
+  <data key="d7">Trenton, NJ to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">51.0</data>
+  <data key="d6">63.69599045465931</data>
+  <data key="d7">Syracuse, NY to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">178.0</data>
+  <data key="d6">146.50618860648856</data>
+  <data key="d7">Stroudsburg, PA to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Springfield, MA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">181.0</data>
+  <data key="d6">195.32727638504508</data>
+  <data key="d7">Springfield, MA to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">154.0</data>
+  <data key="d6">121.34452933692566</data>
+  <data key="d7">Scranton, PA to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">78.0</data>
+  <data key="d6">90.70377114541607</data>
+  <data key="d7">Schenectady, NY to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">156.0</data>
+  <data key="d6">159.9363876670971</data>
+  <data key="d7">Rutland, VT to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">135.0</data>
+  <data key="d6">164.4759775772747</data>
+  <data key="d7">Rochester, NY to Utica, NY</data>
+</edge>
+<edge source="Utica, NY" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">250.0</data>
+  <data key="d6">198.07426889931975</data>
+  <data key="d7">Reading, PA to Utica, NY</data>
+</edge>
+<edge source="Uniontown, PA" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">72.0</data>
+  <data key="d6">69.21696685062093</data>
+  <data key="d7">Steubenville, OH to Uniontown, PA</data>
+</edge>
+<edge source="Uniontown, PA" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">210.0</data>
+  <data key="d6">129.2394320631285</data>
+  <data key="d7">Staunton, VA to Uniontown, PA</data>
+</edge>
+<edge source="Uniontown, PA" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">277.0</data>
+  <data key="d6">182.29837766694496</data>
+  <data key="d7">Roanoke, VA to Uniontown, PA</data>
+</edge>
+<edge source="Uniontown, PA" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">277.0</data>
+  <data key="d6">226.75312235998027</data>
+  <data key="d7">Richmond, VA to Uniontown, PA</data>
+</edge>
+<edge source="Uniontown, PA" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">136.0</data>
+  <data key="d6">135.85484054681334</data>
+  <data key="d7">Ravenna, OH to Uniontown, PA</data>
+</edge>
+<edge source="Tyler, TX" target="Texarkana, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">136.0</data>
+  <data key="d6">114.15299601850124</data>
+  <data key="d7">Texarkana, TX to Tyler, TX</data>
+</edge>
+<edge source="Tyler, TX" target="Shreveport, LA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">99.0</data>
+  <data key="d6">107.66853068561811</data>
+  <data key="d7">Shreveport, LA to Tyler, TX</data>
+</edge>
+<edge source="Tyler, TX" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">135.0</data>
+  <data key="d6">127.02841020811076</data>
+  <data key="d7">Sherman, TX to Tyler, TX</data>
+</edge>
+<edge source="Tyler, TX" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">253.0</data>
+  <data key="d6">220.6550307606876</data>
+  <data key="d7">Seminole, OK to Tyler, TX</data>
+</edge>
+<edge source="Twin Falls, ID" target="Salt Lake City, UT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">236.0</data>
+  <data key="d6">217.96034616415926</data>
+  <data key="d7">Salt Lake City, UT to Twin Falls, ID</data>
+</edge>
+<edge source="Tuscaloosa, AL" target="Tupelo, MS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">107.08975394499714</data>
+  <data key="d7">Tupelo, MS to Tuscaloosa, AL</data>
+</edge>
+<edge source="Tuscaloosa, AL" target="Selma, AL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">85.0</data>
+  <data key="d6">66.51366852008702</data>
+  <data key="d7">Selma, AL to Tuscaloosa, AL</data>
+</edge>
+<edge source="Tupelo, MS" target="Selma, AL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">172.62622193629818</data>
+  <data key="d7">Selma, AL to Tupelo, MS</data>
+</edge>
+<edge source="Tulsa, OK" target="Topeka, KS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">232.0</data>
+  <data key="d6">200.37961024016403</data>
+  <data key="d7">Topeka, KS to Tulsa, OK</data>
+</edge>
+<edge source="Tulsa, OK" target="Texarkana, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">314.0</data>
+  <data key="d6">228.23479686498322</data>
+  <data key="d7">Texarkana, TX to Tulsa, OK</data>
+</edge>
+<edge source="Tulsa, OK" target="Springfield, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">199.0</data>
+  <data key="d6">195.3010732177372</data>
+  <data key="d7">Springfield, MO to Tulsa, OK</data>
+</edge>
+<edge source="Tulsa, OK" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">217.0</data>
+  <data key="d6">180.71099579162285</data>
+  <data key="d7">Sherman, TX to Tulsa, OK</data>
+</edge>
+<edge source="Tulsa, OK" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">95.0</data>
+  <data key="d6">83.42414278852381</data>
+  <data key="d7">Seminole, OK to Tulsa, OK</data>
+</edge>
+<edge source="Tulsa, OK" target="Salina, KS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">277.0</data>
+  <data key="d6">219.30775544882115</data>
+  <data key="d7">Salina, KS to Tulsa, OK</data>
+</edge>
+<edge source="Trinidad, CO" target="Santa Fe, NM">
+  <data key="d4">ROUTE</data>
+  <data key="d5">193.0</data>
+  <data key="d6">143.15346310865172</data>
+  <data key="d7">Santa Fe, NM to Trinidad, CO</data>
+</edge>
+<edge source="Trinidad, CO" target="Salida, CO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">157.0</data>
+  <data key="d6">139.38817525170532</data>
+  <data key="d7">Salida, CO to Trinidad, CO</data>
+</edge>
+<edge source="Trenton, NJ" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">251.0</data>
+  <data key="d6">216.937685522825</data>
+  <data key="d7">Syracuse, NY to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">69.0</data>
+  <data key="d6">60.02268321226583</data>
+  <data key="d7">Stroudsburg, PA to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Springfield, MA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">197.0</data>
+  <data key="d6">198.44799948601138</data>
+  <data key="d7">Springfield, MA to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">111.0</data>
+  <data key="d6">102.54139164259466</data>
+  <data key="d7">Scranton, PA to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">217.0</data>
+  <data key="d6">187.71229075369592</data>
+  <data key="d7">Schenectady, NY to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">163.0</data>
+  <data key="d6">140.73525819779468</data>
+  <data key="d7">Salisbury, MD to Trenton, NJ</data>
+</edge>
+<edge source="Trenton, NJ" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">87.0</data>
+  <data key="d6">80.46896171816817</data>
+  <data key="d7">Reading, PA to Trenton, NJ</data>
+</edge>
+<edge source="Traverse City, MI" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">260.0</data>
+  <data key="d6">217.06350153814427</data>
+  <data key="d7">South Bend, IN to Traverse City, MI</data>
+</edge>
+<edge source="Traverse City, MI" target="Sault Sainte Marie, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">170.0</data>
+  <data key="d6">148.71525543803563</data>
+  <data key="d7">Sault Sainte Marie, MI to Traverse City, MI</data>
+</edge>
+<edge source="Traverse City, MI" target="Saint Joseph, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">230.0</data>
+  <data key="d6">192.9516172515794</data>
+  <data key="d7">Saint Joseph, MI to Traverse City, MI</data>
+</edge>
+<edge source="Traverse City, MI" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">150.0</data>
+  <data key="d6">148.56815574005063</data>
+  <data key="d7">Saginaw, MI to Traverse City, MI</data>
+</edge>
+<edge source="Toronto, ON" target="Syracuse, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">249.0</data>
+  <data key="d6">226.98232530309477</data>
+  <data key="d7">Syracuse, NY to Toronto, ON</data>
+</edge>
+<edge source="Toronto, ON" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">161.0</data>
+  <data key="d6">126.88677157213807</data>
+  <data key="d7">Rochester, NY to Toronto, ON</data>
+</edge>
+<edge source="Toronto, ON" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">307.0</data>
+  <data key="d6">214.76842249269367</data>
+  <data key="d7">Ravenna, OH to Toronto, ON</data>
+</edge>
+<edge source="Topeka, KS" target="Springfield, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">244.0</data>
+  <data key="d6">207.41689854011383</data>
+  <data key="d7">Springfield, MO to Topeka, KS</data>
+</edge>
+<edge source="Topeka, KS" target="Sedalia, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">157.0</data>
+  <data key="d6">170.20016128076935</data>
+  <data key="d7">Sedalia, MO to Topeka, KS</data>
+</edge>
+<edge source="Topeka, KS" target="Salina, KS">
+  <data key="d4">ROUTE</data>
+  <data key="d5">123.0</data>
+  <data key="d6">134.85075083217066</data>
+  <data key="d7">Salina, KS to Topeka, KS</data>
+</edge>
+<edge source="Topeka, KS" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">85.0</data>
+  <data key="d6">75.92812456527498</data>
+  <data key="d7">Saint Joseph, MO to Topeka, KS</data>
+</edge>
+<edge source="Toledo, OH" target="Steubenville, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">206.0</data>
+  <data key="d6">220.57029378409075</data>
+  <data key="d7">Steubenville, OH to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Springfield, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">127.0</data>
+  <data key="d6">120.99443003708868</data>
+  <data key="d7">Springfield, OH to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">148.0</data>
+  <data key="d6">187.2615521136146</data>
+  <data key="d7">South Bend, IN to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Sandusky, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">54.0</data>
+  <data key="d6">59.008753587921056</data>
+  <data key="d7">Sandusky, OH to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Saint Joseph, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">182.0</data>
+  <data key="d6">205.50383451410374</data>
+  <data key="d7">Saint Joseph, MI to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">140.0</data>
+  <data key="d6">126.05756502487297</data>
+  <data key="d7">Saginaw, MI to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">175.0</data>
+  <data key="d6">156.5582642341184</data>
+  <data key="d7">Richmond, IN to Toledo, OH</data>
+</edge>
+<edge source="Toledo, OH" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">140.0</data>
+  <data key="d6">162.50877053254655</data>
+  <data key="d7">Ravenna, OH to Toledo, OH</data>
+</edge>
+<edge source="Texarkana, TX" target="Shreveport, LA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">73.0</data>
+  <data key="d6">66.8836377599181</data>
+  <data key="d7">Shreveport, LA to Texarkana, TX</data>
+</edge>
+<edge source="Texarkana, TX" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">160.0</data>
+  <data key="d6">177.47251759075274</data>
+  <data key="d7">Sherman, TX to Texarkana, TX</data>
+</edge>
+<edge source="Texarkana, TX" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">249.0</data>
+  <data key="d6">220.19328077850167</data>
+  <data key="d7">Seminole, OK to Texarkana, TX</data>
+</edge>
+<edge source="Terre Haute, IN" target="Springfield, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">143.0</data>
+  <data key="d6">156.44736111548892</data>
+  <data key="d7">Springfield, IL to Terre Haute, IN</data>
+</edge>
+<edge source="Terre Haute, IN" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">188.0</data>
+  <data key="d6">172.4566974634499</data>
+  <data key="d7">South Bend, IN to Terre Haute, IN</data>
+</edge>
+<edge source="Terre Haute, IN" target="Saint Louis, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">170.0</data>
+  <data key="d6">200.87341934661254</data>
+  <data key="d7">Saint Louis, MO to Terre Haute, IN</data>
+</edge>
+<edge source="Terre Haute, IN" target="Saint Joseph, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">213.0</data>
+  <data key="d6">192.728403718808</data>
+  <data key="d7">Saint Joseph, MI to Terre Haute, IN</data>
+</edge>
+<edge source="Terre Haute, IN" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">267.0</data>
+  <data key="d6">225.95869998740923</data>
+  <data key="d7">Rockford, IL to Terre Haute, IN</data>
+</edge>
+<edge source="Terre Haute, IN" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">138.0</data>
+  <data key="d6">175.90695409789743</data>
+  <data key="d7">Richmond, IN to Terre Haute, IN</data>
+</edge>
+<edge source="Tampa, FL" target="Tallahassee, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">245.0</data>
+  <data key="d6">214.07050520798026</data>
+  <data key="d7">Tallahassee, FL to Tampa, FL</data>
+</edge>
+<edge source="Tampa, FL" target="Sarasota, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">53.0</data>
+  <data key="d6">42.501299980118326</data>
+  <data key="d7">Sarasota, FL to Tampa, FL</data>
+</edge>
+<edge source="Tampa, FL" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">183.0</data>
+  <data key="d6">155.11456185671278</data>
+  <data key="d7">Saint Augustine, FL to Tampa, FL</data>
+</edge>
+<edge source="Tallahassee, FL" target="Swainsboro, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">250.0</data>
+  <data key="d6">200.07711813198426</data>
+  <data key="d7">Swainsboro, GA to Tallahassee, FL</data>
+</edge>
+<edge source="Tallahassee, FL" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">200.0</data>
+  <data key="d6">208.15113379465367</data>
+  <data key="d7">Saint Augustine, FL to Tallahassee, FL</data>
+</edge>
+<edge source="Tacoma, WA" target="Seattle, WA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">30.0</data>
+  <data key="d6">25.792840091777283</data>
+  <data key="d7">Seattle, WA to Tacoma, WA</data>
+</edge>
+<edge source="Tacoma, WA" target="Salem, OR">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">164.25345414937263</data>
+  <data key="d7">Salem, OR to Tacoma, WA</data>
+</edge>
+<edge source="Syracuse, NY" target="Stroudsburg, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">182.0</data>
+  <data key="d6">157.01799673922744</data>
+  <data key="d7">Stroudsburg, PA to Syracuse, NY</data>
+</edge>
+<edge source="Syracuse, NY" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">140.0</data>
+  <data key="d6">118.07766427229181</data>
+  <data key="d7">Scranton, PA to Syracuse, NY</data>
+</edge>
+<edge source="Syracuse, NY" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">152.84820083991877</data>
+  <data key="d7">Schenectady, NY to Syracuse, NY</data>
+</edge>
+<edge source="Syracuse, NY" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">207.0</data>
+  <data key="d6">223.10388275420067</data>
+  <data key="d7">Rutland, VT to Syracuse, NY</data>
+</edge>
+<edge source="Syracuse, NY" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">88.0</data>
+  <data key="d6">101.1658756696151</data>
+  <data key="d7">Rochester, NY to Syracuse, NY</data>
+</edge>
+<edge source="Syracuse, NY" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">249.0</data>
+  <data key="d6">188.53372748662247</data>
+  <data key="d7">Reading, PA to Syracuse, NY</data>
+</edge>
+<edge source="Swainsboro, GA" target="Sumter, SC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">187.0</data>
+  <data key="d6">165.00155787143348</data>
+  <data key="d7">Sumter, SC to Swainsboro, GA</data>
+</edge>
+<edge source="Swainsboro, GA" target="Savannah, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">94.0</data>
+  <data key="d6">93.53771966431495</data>
+  <data key="d7">Savannah, GA to Swainsboro, GA</data>
+</edge>
+<edge source="Swainsboro, GA" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">220.0</data>
+  <data key="d6">200.07496819942253</data>
+  <data key="d7">Saint Augustine, FL to Swainsboro, GA</data>
+</edge>
+<edge source="Sumter, SC" target="Savannah, GA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">156.0</data>
+  <data key="d6">137.01741239711097</data>
+  <data key="d7">Savannah, GA to Sumter, SC</data>
+</edge>
+<edge source="Sumter, SC" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">225.0</data>
+  <data key="d6">224.76471542481892</data>
+  <data key="d7">Rocky Mount, NC to Sumter, SC</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Springfield, MA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">208.0</data>
+  <data key="d6">195.3395454074774</data>
+  <data key="d7">Springfield, MA to Stroudsburg, PA</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">42.0</data>
+  <data key="d6">44.04455130887334</data>
+  <data key="d7">Scranton, PA to Stroudsburg, PA</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">175.0</data>
+  <data key="d6">152.73284191685838</data>
+  <data key="d7">Schenectady, NY to Stroudsburg, PA</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">208.0</data>
+  <data key="d6">183.24998935879927</data>
+  <data key="d7">Salisbury, MD to Stroudsburg, PA</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">247.0</data>
+  <data key="d6">224.5778050030769</data>
+  <data key="d7">Rochester, NY to Stroudsburg, PA</data>
+</edge>
+<edge source="Stroudsburg, PA" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">72.0</data>
+  <data key="d6">68.51012260972828</data>
+  <data key="d7">Reading, PA to Stroudsburg, PA</data>
+</edge>
+<edge source="Stockton, CA" target="Santa Rosa, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">104.2289067389652</data>
+  <data key="d7">Santa Rosa, CA to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="San Jose, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">80.0</data>
+  <data key="d6">59.11103873220276</data>
+  <data key="d7">San Jose, CA to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="San Francisco, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">84.0</data>
+  <data key="d6">79.0434595649755</data>
+  <data key="d7">San Francisco, CA to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="Salinas, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">138.0</data>
+  <data key="d6">92.53740486959843</data>
+  <data key="d7">Salinas, CA to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">47.0</data>
+  <data key="d6">45.68416027465095</data>
+  <data key="d7">Sacramento, CA to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">186.0</data>
+  <data key="d6">148.6075183158649</data>
+  <data key="d7">Reno, NV to Stockton, CA</data>
+</edge>
+<edge source="Stockton, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">178.0</data>
+  <data key="d6">166.8550643522694</data>
+  <data key="d7">Red Bluff, CA to Stockton, CA</data>
+</edge>
+<edge source="Stevens Point, WI" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">181.0</data>
+  <data key="d6">158.826544695778</data>
+  <data key="d7">Rockford, IL to Stevens Point, WI</data>
+</edge>
+<edge source="Stevens Point, WI" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">204.0</data>
+  <data key="d6">202.65684937845012</data>
+  <data key="d7">Rochester, MN to Stevens Point, WI</data>
+</edge>
+<edge source="Stevens Point, WI" target="Rhinelander, WI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">92.0</data>
+  <data key="d6">78.06053099998775</data>
+  <data key="d7">Rhinelander, WI to Stevens Point, WI</data>
+</edge>
+<edge source="Steubenville, OH" target="Staunton, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">266.0</data>
+  <data key="d6">186.52035304491537</data>
+  <data key="d7">Staunton, VA to Steubenville, OH</data>
+</edge>
+<edge source="Steubenville, OH" target="Springfield, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">189.0</data>
+  <data key="d6">222.48940738830743</data>
+  <data key="d7">Springfield, OH to Steubenville, OH</data>
+</edge>
+<edge source="Steubenville, OH" target="Sandusky, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">162.0</data>
+  <data key="d6">162.85445802924806</data>
+  <data key="d7">Sandusky, OH to Steubenville, OH</data>
+</edge>
+<edge source="Steubenville, OH" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">334.0</data>
+  <data key="d6">218.60780040977485</data>
+  <data key="d7">Roanoke, VA to Steubenville, OH</data>
+</edge>
+<edge source="Steubenville, OH" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">80.0</data>
+  <data key="d6">69.90865468595486</data>
+  <data key="d7">Ravenna, OH to Steubenville, OH</data>
+</edge>
+<edge source="Sterling, CO" target="Scottsbluff, NB">
+  <data key="d4">ROUTE</data>
+  <data key="d5">126.0</data>
+  <data key="d6">91.56716114415677</data>
+  <data key="d7">Scottsbluff, NB to Sterling, CO</data>
+</edge>
+<edge source="Staunton, VA" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">232.0</data>
+  <data key="d6">176.12979872809683</data>
+  <data key="d7">Rocky Mount, NC to Staunton, VA</data>
+</edge>
+<edge source="Staunton, VA" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">88.0</data>
+  <data key="d6">85.51173545192516</data>
+  <data key="d7">Roanoke, VA to Staunton, VA</data>
+</edge>
+<edge source="Staunton, VA" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">112.0</data>
+  <data key="d6">119.61265025071606</data>
+  <data key="d7">Richmond, VA to Staunton, VA</data>
+</edge>
+<edge source="Springfield, OH" target="South Bend, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">207.9018734884316</data>
+  <data key="d7">South Bend, IN to Springfield, OH</data>
+</edge>
+<edge source="Springfield, OH" target="Sandusky, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">128.0</data>
+  <data key="d6">130.22468160836482</data>
+  <data key="d7">Sandusky, OH to Springfield, OH</data>
+</edge>
+<edge source="Springfield, OH" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">64.0</data>
+  <data key="d6">74.87712868426505</data>
+  <data key="d7">Richmond, IN to Springfield, OH</data>
+</edge>
+<edge source="Springfield, OH" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">182.0</data>
+  <data key="d6">197.16926433904433</data>
+  <data key="d7">Ravenna, OH to Springfield, OH</data>
+</edge>
+<edge source="Springfield, MO" target="Sedalia, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">115.0</data>
+  <data key="d6">103.013224879139</data>
+  <data key="d7">Sedalia, MO to Springfield, MO</data>
+</edge>
+<edge source="Springfield, MO" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">227.0</data>
+  <data key="d6">206.17721139835024</data>
+  <data key="d7">Saint Joseph, MO to Springfield, MO</data>
+</edge>
+<edge source="Springfield, MA" target="Scranton, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">229.0</data>
+  <data key="d6">218.08594292159174</data>
+  <data key="d7">Scranton, PA to Springfield, MA</data>
+</edge>
+<edge source="Springfield, MA" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">106.0</data>
+  <data key="d6">106.32696459506346</data>
+  <data key="d7">Schenectady, NY to Springfield, MA</data>
+</edge>
+<edge source="Springfield, MA" target="Saint Johnsbury, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">190.0</data>
+  <data key="d6">165.06865874538414</data>
+  <data key="d7">Saint Johnsbury, VT to Springfield, MA</data>
+</edge>
+<edge source="Springfield, MA" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">134.0</data>
+  <data key="d6">107.60592641671764</data>
+  <data key="d7">Rutland, VT to Springfield, MA</data>
+</edge>
+<edge source="Springfield, IL" target="Saint Louis, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">102.0</data>
+  <data key="d6">89.66145771734877</data>
+  <data key="d7">Saint Louis, MO to Springfield, IL</data>
+</edge>
+<edge source="Springfield, IL" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">194.0</data>
+  <data key="d6">174.8655005997471</data>
+  <data key="d7">Rockford, IL to Springfield, IL</data>
+</edge>
+<edge source="South Bend, IN" target="Saint Joseph, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">44.0</data>
+  <data key="d6">33.06799207693159</data>
+  <data key="d7">Saint Joseph, MI to South Bend, IN</data>
+</edge>
+<edge source="South Bend, IN" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">205.0</data>
+  <data key="d6">200.23631089290467</data>
+  <data key="d7">Saginaw, MI to South Bend, IN</data>
+</edge>
+<edge source="South Bend, IN" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">177.0</data>
+  <data key="d6">201.07458218283054</data>
+  <data key="d7">Rockford, IL to South Bend, IN</data>
+</edge>
+<edge source="South Bend, IN" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">167.0</data>
+  <data key="d6">158.66514740168975</data>
+  <data key="d7">Richmond, IN to South Bend, IN</data>
+</edge>
+<edge source="Sioux Falls, SD" target="Sioux City, IA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">88.0</data>
+  <data key="d6">76.27367632414214</data>
+  <data key="d7">Sioux City, IA to Sioux Falls, SD</data>
+</edge>
+<edge source="Sioux Falls, SD" target="Saint Cloud, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">223.0</data>
+  <data key="d6">225.74513859660397</data>
+  <data key="d7">Saint Cloud, MN to Sioux Falls, SD</data>
+</edge>
+<edge source="Sioux City, IA" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">246.0</data>
+  <data key="d6">216.31424733475117</data>
+  <data key="d7">Saint Joseph, MO to Sioux City, IA</data>
+</edge>
+<edge source="Shreveport, LA" target="Sherman, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">216.0</data>
+  <data key="d6">212.47634809549947</data>
+  <data key="d7">Sherman, TX to Shreveport, LA</data>
+</edge>
+<edge source="Sherman, TX" target="Seminole, OK">
+  <data key="d4">ROUTE</data>
+  <data key="d5">127.0</data>
+  <data key="d6">109.9665640092475</data>
+  <data key="d7">Seminole, OK to Sherman, TX</data>
+</edge>
+<edge source="Sedalia, MO" target="Saint Louis, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">192.0</data>
+  <data key="d6">210.14177737898783</data>
+  <data key="d7">Saint Louis, MO to Sedalia, MO</data>
+</edge>
+<edge source="Sedalia, MO" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">142.0</data>
+  <data key="d6">133.18001351554227</data>
+  <data key="d7">Saint Joseph, MO to Sedalia, MO</data>
+</edge>
+<edge source="Seattle, WA" target="Salem, OR">
+  <data key="d4">ROUTE</data>
+  <data key="d5">241.0</data>
+  <data key="d6">190.04338083711312</data>
+  <data key="d7">Salem, OR to Seattle, WA</data>
+</edge>
+<edge source="Scranton, PA" target="Schenectady, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">191.0</data>
+  <data key="d6">153.67351918922142</data>
+  <data key="d7">Schenectady, NY to Scranton, PA</data>
+</edge>
+<edge source="Scranton, PA" target="Salisbury, MD">
+  <data key="d4">ROUTE</data>
+  <data key="d5">250.0</data>
+  <data key="d6">210.10575456183983</data>
+  <data key="d7">Salisbury, MD to Scranton, PA</data>
+</edge>
+<edge source="Scranton, PA" target="Rochester, NY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">205.0</data>
+  <data key="d6">180.53733685861252</data>
+  <data key="d7">Rochester, NY to Scranton, PA</data>
+</edge>
+<edge source="Scranton, PA" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">109.0</data>
+  <data key="d6">76.73617399896872</data>
+  <data key="d7">Reading, PA to Scranton, PA</data>
+</edge>
+<edge source="Schenectady, NY" target="Saint Johnsbury, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">193.0</data>
+  <data key="d6">173.22295488762438</data>
+  <data key="d7">Saint Johnsbury, VT to Schenectady, NY</data>
+</edge>
+<edge source="Schenectady, NY" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">90.0</data>
+  <data key="d6">86.97384664368948</data>
+  <data key="d7">Rutland, VT to Schenectady, NY</data>
+</edge>
+<edge source="Schenectady, NY" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">247.0</data>
+  <data key="d6">219.80453430263918</data>
+  <data key="d7">Reading, PA to Schenectady, NY</data>
+</edge>
+<edge source="Savannah, GA" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">196.0</data>
+  <data key="d6">152.17190180844838</data>
+  <data key="d7">Saint Augustine, FL to Savannah, GA</data>
+</edge>
+<edge source="Sault Sainte Marie, MI" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">272.0</data>
+  <data key="d6">213.32681430143748</data>
+  <data key="d7">Saginaw, MI to Sault Sainte Marie, MI</data>
+</edge>
+<edge source="Sarasota, FL" target="Saint Augustine, FL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">236.0</data>
+  <data key="d6">195.0038486799683</data>
+  <data key="d7">Saint Augustine, FL to Sarasota, FL</data>
+</edge>
+<edge source="Santa Rosa, CA" target="San Jose, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">102.0</data>
+  <data key="d6">95.63181322133293</data>
+  <data key="d7">San Jose, CA to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Rosa, CA" target="San Francisco, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">55.0</data>
+  <data key="d6">50.099126738896274</data>
+  <data key="d7">San Francisco, CA to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Rosa, CA" target="Salinas, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">160.0</data>
+  <data key="d6">142.90883422657987</data>
+  <data key="d7">Salinas, CA to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Rosa, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">103.0</data>
+  <data key="d6">85.64137142759941</data>
+  <data key="d7">Sacramento, CA to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Rosa, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">242.0</data>
+  <data key="d6">214.49549575690403</data>
+  <data key="d7">Reno, NV to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Rosa, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">209.0</data>
+  <data key="d6">124.73665740270617</data>
+  <data key="d7">Red Bluff, CA to Santa Rosa, CA</data>
+</edge>
+<edge source="Santa Fe, NM" target="Salida, CO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">227.0</data>
+  <data key="d6">196.94057225467773</data>
+  <data key="d7">Salida, CO to Santa Fe, NM</data>
+</edge>
+<edge source="Santa Fe, NM" target="Roswell, NM">
+  <data key="d4">ROUTE</data>
+  <data key="d5">196.0</data>
+  <data key="d6">185.5888878677813</data>
+  <data key="d7">Roswell, NM to Santa Fe, NM</data>
+</edge>
+<edge source="Santa Barbara, CA" target="Santa Ana, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">128.0</data>
+  <data key="d6">134.3926203331112</data>
+  <data key="d7">Santa Ana, CA to Santa Barbara, CA</data>
+</edge>
+<edge source="Santa Barbara, CA" target="San Diego, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">213.0</data>
+  <data key="d6">212.12093578899686</data>
+  <data key="d7">San Diego, CA to Santa Barbara, CA</data>
+</edge>
+<edge source="Santa Barbara, CA" target="San Bernardino, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">152.0</data>
+  <data key="d6">166.52080830935157</data>
+  <data key="d7">San Bernardino, CA to Santa Barbara, CA</data>
+</edge>
+<edge source="Santa Barbara, CA" target="Salinas, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">236.0</data>
+  <data key="d6">205.74542157724918</data>
+  <data key="d7">Salinas, CA to Santa Barbara, CA</data>
+</edge>
+<edge source="Santa Ana, CA" target="San Diego, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">90.0</data>
+  <data key="d6">87.96911389800414</data>
+  <data key="d7">San Diego, CA to Santa Ana, CA</data>
+</edge>
+<edge source="Santa Ana, CA" target="San Bernardino, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">54.0</data>
+  <data key="d6">45.660468679154086</data>
+  <data key="d7">San Bernardino, CA to Santa Ana, CA</data>
+</edge>
+<edge source="San Jose, CA" target="San Francisco, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">47.0</data>
+  <data key="d6">48.120559015871315</data>
+  <data key="d7">San Francisco, CA to San Jose, CA</data>
+</edge>
+<edge source="San Jose, CA" target="Salinas, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">58.0</data>
+  <data key="d6">48.95378432767034</data>
+  <data key="d7">Salinas, CA to San Jose, CA</data>
+</edge>
+<edge source="San Jose, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">127.0</data>
+  <data key="d6">90.47695507696984</data>
+  <data key="d7">Sacramento, CA to San Jose, CA</data>
+</edge>
+<edge source="San Jose, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">266.0</data>
+  <data key="d6">207.71850615676996</data>
+  <data key="d7">Reno, NV to San Jose, CA</data>
+</edge>
+<edge source="San Jose, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">235.0</data>
+  <data key="d6">197.79972143559746</data>
+  <data key="d7">Red Bluff, CA to San Jose, CA</data>
+</edge>
+<edge source="San Francisco, CA" target="Salinas, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">105.0</data>
+  <data key="d6">93.33275095056437</data>
+  <data key="d7">Salinas, CA to San Francisco, CA</data>
+</edge>
+<edge source="San Francisco, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">94.0</data>
+  <data key="d6">85.22386989570487</data>
+  <data key="d7">Sacramento, CA to San Francisco, CA</data>
+</edge>
+<edge source="San Francisco, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">233.0</data>
+  <data key="d6">216.74910195892394</data>
+  <data key="d7">Reno, NV to San Francisco, CA</data>
+</edge>
+<edge source="San Francisco, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">200.0</data>
+  <data key="d6">166.30592051998647</data>
+  <data key="d7">Red Bluff, CA to San Francisco, CA</data>
+</edge>
+<edge source="Sandusky, OH" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">194.0</data>
+  <data key="d6">161.06191387165399</data>
+  <data key="d7">Saginaw, MI to Sandusky, OH</data>
+</edge>
+<edge source="Sandusky, OH" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">191.0</data>
+  <data key="d6">187.66981776513782</data>
+  <data key="d7">Richmond, IN to Sandusky, OH</data>
+</edge>
+<edge source="Sandusky, OH" target="Ravenna, OH">
+  <data key="d4">ROUTE</data>
+  <data key="d5">93.0</data>
+  <data key="d6">103.53196849282804</data>
+  <data key="d7">Ravenna, OH to Sandusky, OH</data>
+</edge>
+<edge source="San Diego, CA" target="San Bernardino, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">130.0</data>
+  <data key="d6">97.37670871414782</data>
+  <data key="d7">San Bernardino, CA to San Diego, CA</data>
+</edge>
+<edge source="San Antonio, TX" target="San Angelo, TX">
+  <data key="d4">ROUTE</data>
+  <data key="d5">218.0</data>
+  <data key="d6">194.5083188452362</data>
+  <data key="d7">San Angelo, TX to San Antonio, TX</data>
+</edge>
+<edge source="Salt Lake City, UT" target="Rock Springs, WY">
+  <data key="d4">ROUTE</data>
+  <data key="d5">196.0</data>
+  <data key="d6">191.85828963065413</data>
+  <data key="d7">Rock Springs, WY to Salt Lake City, UT</data>
+</edge>
+<edge source="Salt Lake City, UT" target="Richfield, UT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">164.0</data>
+  <data key="d6">138.24359117152596</data>
+  <data key="d7">Richfield, UT to Salt Lake City, UT</data>
+</edge>
+<edge source="Salisbury, MD" target="Rocky Mount, NC">
+  <data key="d4">ROUTE</data>
+  <data key="d5">261.0</data>
+  <data key="d6">226.50282757616972</data>
+  <data key="d7">Rocky Mount, NC to Salisbury, MD</data>
+</edge>
+<edge source="Salisbury, MD" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">306.0</data>
+  <data key="d6">140.09724408424304</data>
+  <data key="d7">Richmond, VA to Salisbury, MD</data>
+</edge>
+<edge source="Salisbury, MD" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">160.0</data>
+  <data key="d6">137.3588544652295</data>
+  <data key="d7">Reading, PA to Salisbury, MD</data>
+</edge>
+<edge source="Salinas, CA" target="Sacramento, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">185.0</data>
+  <data key="d6">133.14183715121283</data>
+  <data key="d7">Sacramento, CA to Salinas, CA</data>
+</edge>
+<edge source="Salina, KS" target="Saint Joseph, MO">
+  <data key="d4">ROUTE</data>
+  <data key="d5">196.0</data>
+  <data key="d6">201.91502891067825</data>
+  <data key="d7">Saint Joseph, MO to Salina, KS</data>
+</edge>
+<edge source="Saint Paul, MN" target="Saint Cloud, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">75.0</data>
+  <data key="d6">85.43533987759432</data>
+  <data key="d7">Saint Cloud, MN to Saint Paul, MN</data>
+</edge>
+<edge source="Saint Paul, MN" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">80.0</data>
+  <data key="d6">78.00484600330925</data>
+  <data key="d7">Rochester, MN to Saint Paul, MN</data>
+</edge>
+<edge source="Saint Joseph, MI" target="Saginaw, MI">
+  <data key="d4">ROUTE</data>
+  <data key="d5">187.0</data>
+  <data key="d6">198.11031800489357</data>
+  <data key="d7">Saginaw, MI to Saint Joseph, MI</data>
+</edge>
+<edge source="Saint Joseph, MI" target="Rockford, IL">
+  <data key="d4">ROUTE</data>
+  <data key="d5">180.0</data>
+  <data key="d6">181.39161419426134</data>
+  <data key="d7">Rockford, IL to Saint Joseph, MI</data>
+</edge>
+<edge source="Saint Joseph, MI" target="Richmond, IN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">211.0</data>
+  <data key="d6">191.49220166889305</data>
+  <data key="d7">Richmond, IN to Saint Joseph, MI</data>
+</edge>
+<edge source="Saint Johnsbury, VT" target="Rutland, VT">
+  <data key="d4">ROUTE</data>
+  <data key="d5">103.0</data>
+  <data key="d6">86.26492972233827</data>
+  <data key="d7">Rutland, VT to Saint Johnsbury, VT</data>
+</edge>
+<edge source="Saint Cloud, MN" target="Rochester, MN">
+  <data key="d4">ROUTE</data>
+  <data key="d5">152.0</data>
+  <data key="d6">159.45390838734596</data>
+  <data key="d7">Rochester, MN to Saint Cloud, MN</data>
+</edge>
+<edge source="Sacramento, CA" target="Reno, NV">
+  <data key="d4">ROUTE</data>
+  <data key="d5">139.0</data>
+  <data key="d6">132.67974223671055</data>
+  <data key="d7">Reno, NV to Sacramento, CA</data>
+</edge>
+<edge source="Sacramento, CA" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">131.0</data>
+  <data key="d6">121.46823453067883</data>
+  <data key="d7">Red Bluff, CA to Sacramento, CA</data>
+</edge>
+<edge source="Rocky Mount, NC" target="Roanoke, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">216.0</data>
+  <data key="d6">174.11152546571952</data>
+  <data key="d7">Roanoke, VA to Rocky Mount, NC</data>
+</edge>
+<edge source="Rocky Mount, NC" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">120.0</data>
+  <data key="d6">113.1873000826505</data>
+  <data key="d7">Richmond, VA to Rocky Mount, NC</data>
+</edge>
+<edge source="Rochester, NY" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">281.0</data>
+  <data key="d6">227.38213826068215</data>
+  <data key="d7">Reading, PA to Rochester, NY</data>
+</edge>
+<edge source="Roanoke, VA" target="Richmond, VA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">168.0</data>
+  <data key="d6">173.0777495809332</data>
+  <data key="d7">Richmond, VA to Roanoke, VA</data>
+</edge>
+<edge source="Richmond, VA" target="Reading, PA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">249.0</data>
+  <data key="d6">219.52500654822887</data>
+  <data key="d7">Reading, PA to Richmond, VA</data>
+</edge>
+<edge source="Reno, NV" target="Red Bluff, CA">
+  <data key="d4">ROUTE</data>
+  <data key="d5">198.0</data>
+  <data key="d6">173.9820967800995</data>
+  <data key="d7">Red Bluff, CA to Reno, NV</data>
+</edge>
+</graph></graphml>
